@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Function to update carousel position
         function updateCarousel() {
-            container.style.transform = `translateX(-${currentSlide * 100}%)`;
+            const offset = -currentSlide * 100;
+            container.style.transform = `translateX(${offset}%)`;
         }
 
         // INICIO DO SLIDE
