@@ -16,10 +16,10 @@ document.addEventListener('DOMContentLoaded', function() {
             container.style.transform = `translateX(-${currentSlide * 100}%)`;
         }
 
-        // Initialize first slide
+        // INICIO DO SLIDE
         updateCarousel();
 
-        // Previous button click handler
+        // PREVISUALIZAÇÃO DO BOTÃO
         prevButton.addEventListener('click', () => {
             currentSlide = (currentSlide - 1 + slideCount) % slideCount;
             updateCarousel();
