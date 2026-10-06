@@ -25,12 +25,6 @@ A proposta é unir tecnologia, informação e cultura regional em uma experiênc
 - Font Awesome
 - Google Fonts
 
-## 📂 Estrutura
+# Official link: Fala Pará.
 
-```text
-cop30-g-rias/
-├── img/
-├── index.html
-├── styles.css
-├── script.js
-└── netlify.toml
+[![Open Site](https://img.shields.io/badge/🌐%20Open%20Site-IEQNC-6A0DAD?style=for-the-badge)](https://falapara.netlify.app/)
