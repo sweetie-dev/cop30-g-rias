@@ -1,4 +1,4 @@
-# 🌿 COP30 em Belém do Pará
+# Meu primeiro projeto na faculdade de ADS - COP30 em Belém do Pará
 
 > Um projeto desenvolvido para apresentar a COP30 em Belém e valorizar a cultura e a identidade paraense através de suas gírias e expressões.
 
